@@ -1,2 +1,6 @@
-A two-player turn based marvel themed board fighting game implemented by me alongside two of my Colleagues at the German University in Cairo (GUC). The game involves each player choosing a team of 3 marvel superheroes or villains including a leader that has a special leader ability to help lead his team to victory. Players take turns controlling their champions trying to eliminate the opposing player's champions in order to win the game. The game features 15 champions from the marvel world and each champion has different abilities and stats like health, damage amount, speed etc. The ultimate goal of this game is to try and use your environment and champions to your advantage in order to outplay the opponent and eliminate all his champions before they do. 
+# Marvel-Ultimate-War
+The Marvel themed board fighting game is a turn-based board fighting game. The game is implemented using Java programming language and the UI was implemented using Java.swing, which provides a powerful and flexible toolset for creating graphical user interfaces (GUIs).
+
+The objective of the game is to defeat your opponent by attacking and defending with your superhero characters. Each character has their unique set of powers and abilities, which can be used strategically to win battles. The game is played on an "5x5" board with a set of tiles that represent the playing field, and players can move their characters on these tiles to attack or defend.
+
 Here's a video of the gameplay: https://youtu.be/ZGTKnBDXM4w
